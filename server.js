@@ -17,7 +17,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 //Sets a basic route
 
-// Render the initial page with the number input form
+// Render the home page with the number input form
 app.get("/", (req, res) => {
   res.render("index");
 });
