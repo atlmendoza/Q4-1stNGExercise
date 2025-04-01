@@ -3,7 +3,7 @@
 
 ![](banner.png)
 
-Given 2 positive integers A and B, output a right triangle with 2 of the sides having A and B ems. Compute for the third side, C, and put labels on the sides as well.
+Given 2 positive integers A and B, output a right triangle with 2 of the sides having A and B ems. Compute for the third side, C, and put labels on the sides as well. Updating
 
 #### Sample input 1
 `300 400`
